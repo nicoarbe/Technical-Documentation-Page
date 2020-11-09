@@ -1,0 +1,36 @@
+.nav{
+    width: 100%;
+   
+    float: left;
+}
+.test{
+   
+    width: 22%;
+    border-right: 4px solid lightgray;
+}
+.test header{
+    position: fixed;
+   
+}
+
+#fullnav{
+    position: fixed;
+}
+
+#headernav{
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+#menunav{
+    position: relative;
+    margin-top: 2.5rem;
+    height: 90%;
+    padding-bottom: 2rem;
+    overflow-y: auto;
+}
+
+.main{
+    width: 58%;
+    padding: 30px;
+}
